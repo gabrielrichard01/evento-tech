@@ -2,10 +2,9 @@
   "name": "evento-tech",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html src/js/index.js src/scss/main.scss",
-    "build-prod": "parcel build src/index.html src/js/index.js src/scss/main.css"
+    "build": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
